@@ -1,4 +1,4 @@
 Responsive-Starbucks-Website-Design-Using-HTML-CSS-And-JavaScript
 
-![Responsive Starbucks](https://github.com/leodatadev/Responsive-Starbucks-Website-Design-Using-HTML-CSS-And-JavaScript/assets/141060396/e30e5900-3b6d-4cd8-bb1c-735302fbc18e)
+![Responsive Starbucks Img](https://github.com/leodatadev/Responsive-Starbucks-Website-Design-Using-HTML-CSS-And-JavaScript/assets/141060396/bf619be2-0ed8-4b53-9f42-5a0322d432d8)
 
