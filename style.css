@@ -399,7 +399,7 @@ header {
   }
 }
 
-@media (max-width: 364px) {
+@media (max-width: 382px) {
   .links {
     display: flex;
     flex-direction: column;
